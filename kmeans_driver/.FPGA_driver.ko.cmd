@@ -1,0 +1,1 @@
+cmd_/home/spark/zj_driver/version36/FPGA_driver.ko := ld -r -m elf_x86_64 -T /usr/src/linux-2.6.32-431.el6/scripts/module-common.lds --build-id -o /home/spark/zj_driver/version36/FPGA_driver.ko /home/spark/zj_driver/version36/FPGA_driver.o /home/spark/zj_driver/version36/FPGA_driver.mod.o
